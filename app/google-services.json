@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499200391744",
+    "project_id": "au22-auth",
+    "storage_bucket": "au22-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499200391744:android:ccb40e739698aa13c2fda5",
+        "android_client_info": {
+          "package_name": "com.example.au22_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499200391744-7ouo2e2jo171fv1s02ha0ogdn4cl7mlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18RJGWA4mnS2qWDK4L8f_LUj7qabjGlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499200391744-7ouo2e2jo171fv1s02ha0ogdn4cl7mlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
